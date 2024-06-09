@@ -1,2 +1,2 @@
 # amostraConglomerada
-Exercício sobre técnica de amostragem estratificada feito na pós graduação de data science.
+Exercício sobre técnica de amostragem conglomerada (agrupada) feito na pós graduação de data science.
